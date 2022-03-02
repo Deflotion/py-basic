@@ -1,6 +1,6 @@
 #! membuat latihan segitiga 
 
-sisi = 5
+sisi = 6
 
 #? 1. menggunakan For
 print ("awal For")
@@ -46,12 +46,15 @@ print ("akhir While continue")
 
 
 #? 4. membuat segitiga sama kaki
-print ("awal While continue")
+print ("awal segitiga")
 count = 1
+spasi = int(sisi/2)
+print (spasi)
 while True:
     if count % 2:
     #* print jika ganjil
-        print ("+"*count)
+        print (" "*spasi,"+"*count)
+        spasi -= 1
         count += 1
     else: 
     #* balik keatas lagi jika ganjil
@@ -62,4 +65,4 @@ while True:
     if count > sisi:
         break
 
-print ("akhir While continue")
+print ("akhir segitiga")
