@@ -1,2 +1,2 @@
 # py basic
- just basic on python
+ just my basic on python
