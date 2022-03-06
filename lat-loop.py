@@ -1,10 +1,10 @@
-#! membuat latihan segitiga 
+## Membuat latihan segitiga 
 
 sisi = 6
 
 #? 1. menggunakan For
 print ("awal For")
-# dummy variable
+#* dummy variable
 count = 1
 for i in range(sisi):
     print ("+"*count)
