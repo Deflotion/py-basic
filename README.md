@@ -1,2 +1,3 @@
 # py basic
- just my basic on python
+ this my basic on python
+you can use or read the code
