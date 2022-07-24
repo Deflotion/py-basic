@@ -1,0 +1,2 @@
+'''Type Hints pada function'''
+
