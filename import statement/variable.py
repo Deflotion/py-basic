@@ -1,0 +1,1 @@
+data = "awikwok anda kocak sekali"
