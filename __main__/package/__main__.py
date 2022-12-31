@@ -1,0 +1,1 @@
+print("Ini adalah main dari package")
